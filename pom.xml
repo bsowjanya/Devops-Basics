@@ -103,7 +103,7 @@
                 <configuration>
                     <port>8081</port>
                 </configuration>
-            </plugin>
+            <!--/plugin>
             <plugin>
                 <groupId>org.owasp</groupId>
                 <artifactId>dependency-check-maven</artifactId>
@@ -116,6 +116,6 @@
                     </execution>
                 </executions>
             </plugin>            
-        </plugins>
+        </plugins-->
     </build>
 </project>
