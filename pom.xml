@@ -68,7 +68,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-from Kul Thinknyx to everyone:
+<!--from Kul Thinknyx to everyone:
     <!-- https://mvnrepository.com/artifact/org.eclipse.equinox/javax.servlet -->
     <dependency>
         <groupId>javax.servlet</groupId>
